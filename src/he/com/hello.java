@@ -5,5 +5,6 @@ public class hello {
         System.out.println("hello");
         System.out.println("second version");
         System.out.println("third commit");
+        System.out.println("再测试一次");
     }
 }
